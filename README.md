@@ -1,6 +1,3 @@
-![githubEste](https://github.com/Isto21/Isto21/assets/130760863/afde403c-54e1-469f-b731-36775b78f7ad)
-
-
 Nombre: Luis Tomas Lezcano
 Correo electrónico: luistomaslezcano@gmail.com
 Teléfono: +53 55239838 
